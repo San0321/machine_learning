@@ -1,0 +1,10 @@
+The C value is 0.01 and the Train error rate is 0.151016666667
+And the test error is 0.1566
+The C value is 0.1 and the Train error rate is 0.122266666667
+And the test error is 0.1281
+The C value is 1 and the Train error rate is 0.16735
+And the test error is 0.1765
+The C value is 10 and the Train error rate is 0.124416666667
+And the test error is 0.1329
+The C value is 100 and the Train error rate is 0.142466666667
+And the test error is 0.152
